@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelJonassi
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently game development (Unity)
 - 💞️ I’m looking to collaborate on ...
 - I'm computer systems engineering student
 <!---
