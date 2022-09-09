@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=JoelJonassi&color=006bed)
 
 <h3> 👨‍🦲: &nbsp;About me </h3>
-- 👋 Hi, I’m @JoelJonassi
-- 👀 I’m interested in information technology
-- 🌱 I’m currently game development (Unity)
+- 👋 Hi, I’m @JoelJonassi.
+- 👀 I’m interested in information technology.
+- 🌱 I’m currently game development (Unity).
 - 💞️ I’m looking to collaborate on ...
-- 🎓 I'm computer systems engineering student at <a href="ipca.pt">IPCA</a>
+- 🎓 I'm computer systems engineering student at <a href="ipca.pt">IPCA</a>.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learn More about **Data Structures in C/C++**.
 
