@@ -16,8 +16,8 @@
 **Applications and Data**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg){width=20%}
-  ![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg){width=20%}
+  ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg/400x90)
+  ![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
   ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
