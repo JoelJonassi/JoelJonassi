@@ -49,7 +49,7 @@
 <br/>
 
 <a href="https://github.com/JoelJonassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelJonasssi&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelJonassi&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
