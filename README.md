@@ -42,8 +42,8 @@
 
 **Development Tools**
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="20">
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="20">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="20">
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
