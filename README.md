@@ -1,6 +1,12 @@
 
 ![](https://komarev.com/ghpvc/?username=JoelJonassi&color=006bed)
 
+<h3> 👨‍🦲: &nbsp;About me </h3>
+
+I am a student of Computer Systems Engineering, I am highly motivated and focused on my progress.
+Throughout my course, I honed my skills in software development.
+These days I don't just consider myself a programmer, I consider myself a capable and consistent problem solver.
+
 - 👋 Hi, I’m @JoelJonassi.
 - 👀 I’m interested in information technology.
 - 🌱 I’m currently game development (Unity).
