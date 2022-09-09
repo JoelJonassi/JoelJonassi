@@ -1,8 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=JoelJonassi&color=006bed)
 
-<h3> 👨‍🦲: &nbsp;About me </h3>
-
 - 👋 Hi, I’m @JoelJonassi.
 - 👀 I’m interested in information technology.
 - 🌱 I’m currently game development (Unity).
