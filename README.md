@@ -17,7 +17,7 @@ These days I don't just consider myself a programmer, I consider myself a capabl
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
-**Applications and Data**
+**Languages/FrameWorks ang Technologies**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="20"/>
