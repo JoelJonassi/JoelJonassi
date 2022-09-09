@@ -61,6 +61,7 @@
 
 <h3> :earth_americas: &nbsp;Where do you find me: </h3> 
 
+[![Joel Jonassi](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-jonassi-jj/)](https://www.linkedin.com/in/joel-jonassi-jj/)
 [![Linkedin: Joel Jonassi](https://img.shields.io/badge/-Joel-Jonassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-jonassi-jj/)](https://www.linkedin.com/in/joel-jonassi-jj/)
 [![Gmail Badge](https://img.shields.io/badge/-joel14jonassi.jj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joel14jonassi.jj@gmail.com)](mailto:joel14jonassi.jj@gmail.com)
 [![GitHub Joel Jonassi]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/JoelJonassi/)
