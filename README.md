@@ -16,7 +16,7 @@
 **Applications and Data**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C]<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="20"/>
+  ![C](<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="20"/>)
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="20">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20">
