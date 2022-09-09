@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=JoelJonassi&color=006bed)
 
 <h3> 👨‍🦲: &nbsp;About me </h3>
+
 - 👋 Hi, I’m @JoelJonassi.
 - 👀 I’m interested in information technology.
 - 🌱 I’m currently game development (Unity).
@@ -48,7 +49,7 @@
 <br/>
 
 <a href="https://github.com/JoelJonassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelJonasssi&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
