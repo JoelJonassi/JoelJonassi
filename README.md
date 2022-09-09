@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="20">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20">
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20">
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="30">
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
