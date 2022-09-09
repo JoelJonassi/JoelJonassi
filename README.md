@@ -17,16 +17,16 @@
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="20"/>
-  ![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
-  ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+  <https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg>
+  <https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg>
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Unity](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg)
+  <https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Postgres SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg)
-  ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+  <https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql>
+  <https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg>
+ <https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg>
 
 **Utilities**
 
