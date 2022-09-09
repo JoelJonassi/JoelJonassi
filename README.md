@@ -16,14 +16,17 @@
 **Applications and Data**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C]()
-  ![C#]()
-  ![Python]()
+  ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg)
+  ![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
+  ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Unity](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Postgres SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Angular](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg)
+  ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
 
 **Utilities**
 
@@ -39,12 +42,14 @@
 
 **Development Tools**
 
+  ![Vim](https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ![PyCharms](https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg)
+  ![Sublime Text]()
+  ![Arduino IDE](https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg)
 
 <br/>
 
@@ -56,6 +61,6 @@
 
 <h3> :earth_americas: &nbsp;Where do you find me: </h3> 
 
-[![Linkedin: Joel Jonassi](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-jonassi-jj/)](https://www.linkedin.com/in/joel-jonassi-jj/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joel14jonassi.jj@gmail.com)](mailto:joel14jonassi.jj@gmail.com)
+[![Linkedin: Joel Jonassi](https://img.shields.io/badge/-Joel Jonassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-jonassi-jj/)](https://www.linkedin.com/in/joel-jonassi-jj/)
+[![Gmail Badge](https://img.shields.io/badge/-joel14jonassi.jj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joel14jonassi.jj@gmail.com)](mailto:joel14jonassi.jj@gmail.com)
 [![GitHub Joel Jonassi]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/JoelJonassi/)
