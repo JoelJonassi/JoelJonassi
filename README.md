@@ -10,7 +10,7 @@ These days I don't just consider myself a programmer, I consider myself a capabl
 - 👋 Hi, I’m @JoelJonassi.
 - 👀 I’m interested in information technology.
 - 🌱 I’m currently in development of IoT and VR(Unity) Systems.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Project.
 - 🎓 I'm computer systems engineering student at <a href="ipca.pt">IPCA</a>.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Learning More about **Data Structures in C/C++**.
