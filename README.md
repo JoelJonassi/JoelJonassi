@@ -32,10 +32,6 @@ These days I don't just consider myself a programmer, I consider myself a capabl
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20">
 
-**Utilities**
-
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -54,12 +50,6 @@ These days I don't just consider myself a programmer, I consider myself a capabl
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" width="30">
   <img src="https://th.bing.com/th/id/OIP.pEGYjfrdkvCsFdyJC14ZrAHaEn?pid=ImgDet&rs=1" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="20">
-
-<br/>
-
-<a href="https://github.com/JoelJonassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelJonassi&theme=dracula&show_icons=true" />
-</a>
 
 <br/>
 
